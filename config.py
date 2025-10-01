@@ -11,7 +11,7 @@ AUDIO_FORMAT = "wav"
 
 WHISPER_MODEL = "base"
 
-GPT_MODEL = "gpt-4"
+GPT_MODEL = "gpt-3.5-turbo"
 MAX_TOKENS = 500
 TEMPERATURE = 0.7
 
